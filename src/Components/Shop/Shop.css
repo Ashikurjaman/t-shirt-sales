@@ -1,0 +1,16 @@
+.shop{
+    
+    margin: 50px;
+    border: 1px solid gray;
+    text-align: center;
+    
+    
+}
+.shop img{
+    /* display: grid;
+    grid-template-columns: repeat(3fr); */
+    
+    
+    height: 240px;
+
+}
