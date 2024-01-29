@@ -14,3 +14,13 @@
     height: 240px;
 
 }
+
+.btn{
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    
+}
